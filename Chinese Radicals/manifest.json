@@ -1,0 +1,10 @@
+{
+    "name": "Chinese Radicals",
+    "description": "The one with the 200 words!",
+    "manifest_version": 2,
+    "version": "0.0.0.1",
+    "permissions" : ["management", "127.0.0.1:5000"],
+    "chrome_url_overrides" : {
+        "newtab": "newtab.html"
+    }
+}
