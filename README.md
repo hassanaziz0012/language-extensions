@@ -1,4 +1,4 @@
-# language-extensions
+# Language Extensions
 A bunch of Chrome Extensions for learning Chinese that I developed for a friend. More specifically, three extensions. And all three of them are pretty much the same thing, but with a different set of words.
 
 * Anna's Logophile
