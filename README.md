@@ -11,3 +11,9 @@ The extensions will change your New Tab page to a page where you will be shown a
 
 This is what the extensions look like: ![Anna's Logophile](https://i.imgur.com/Cmg6Z4t.png) 
 As you can see, it has a pretty basic design, nothing too fancy. You can't add words right now, since the person I made this for just had a list of words on Wikipedia and othre websites which I simply scraped for him. Perhaps, in the future, I might add the ability to add your own words in the extension.
+
+## Installation Instructions
+Installing these extensions is quite simple. Even though they're not available in the official Chrome store, because they were a personal project only, installing them is still a simple drag-and-drop process.
+1. Start by downloading the Extension folder from this GitHub repository.
+2. Open the Chrome extensions page and drag the folder in there. It should give you the option to install them.
+Contact me if you run into any issues. Though this is such a basic process, a simple Google search will get it working in less than a minute.
