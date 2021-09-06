@@ -16,4 +16,5 @@ As you can see, it has a pretty basic design, nothing too fancy. You can't add w
 Installing these extensions is quite simple. Even though they're not available in the official Chrome store, because they were a personal project only, installing them is still a simple drag-and-drop process.
 1. Start by downloading the Extension folder from this GitHub repository.
 2. Open the Chrome extensions page and drag the folder in there. It should give you the option to install them.
+
 Contact me if you run into any issues. Though this is such a basic process, a simple Google search will get it working in less than a minute.
